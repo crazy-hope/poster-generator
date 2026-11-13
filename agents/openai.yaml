@@ -1,0 +1,6 @@
+interface:
+  display_name: "海报生成器"
+  short_description: "用文字与上传素材制作多风格海报，支持七种画幅与企业品牌元素"
+  default_prompt: "用 $poster-generator 帮我生成一张海报。"
+policy:
+  allow_implicit_invocation: true
